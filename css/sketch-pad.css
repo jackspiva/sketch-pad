@@ -20,3 +20,22 @@ td {
     background-color: red;
     width: 27px; height: 27px;
 }
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 10px;
+  background: #3498db;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+  border: 0;
+  margin-bottom: 15px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}

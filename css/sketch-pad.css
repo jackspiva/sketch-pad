@@ -1,0 +1,22 @@
+.divGrid {
+    background-color: blue;
+    width: 100%; height: 100%;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+    width: 600px; height: 600px;
+}
+
+td {
+    height: 1px;
+    width: 1px;
+    padding: 0;
+    margin: 0;
+}
+
+.markedDiv {
+    background-color: red;
+    width: 27px; height: 27px;
+}
